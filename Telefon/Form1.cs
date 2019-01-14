@@ -20,6 +20,7 @@ namespace Telefon
         List<Marka> markalar;
         List<Telefon> telefonlar;
         List<Model> modeller;
+        string Salih;
         private void Form1_Load(object sender, EventArgs e)
         {
             Database db = new Database();
