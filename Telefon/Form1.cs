@@ -96,7 +96,7 @@ namespace Telefon
 
         private void btnSorgu6_Click(object sender, EventArgs e)
         {
-            //deneme
+       
             //6 - hafızası 32gb dan büyük,pixeli 15px olan ve 2 yıl önce üretilmiş telefonları getirelim
             var result = from mdl in modeller
                          join tlf in telefonlar on mdl.ModelID equals tlf.ModelID
