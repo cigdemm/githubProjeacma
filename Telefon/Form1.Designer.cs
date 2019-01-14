@@ -63,7 +63,7 @@
             this.btnSorgu2.Name = "btnSorgu2";
             this.btnSorgu2.Size = new System.Drawing.Size(78, 53);
             this.btnSorgu2.TabIndex = 1;
-            this.btnSorgu2.Text = "Sorgu2";
+            this.btnSorgu2.Text = "\"Sorgu 2\"";
             this.btnSorgu2.UseVisualStyleBackColor = true;
             this.btnSorgu2.Click += new System.EventHandler(this.btnSorgu2_Click);
             // 
@@ -83,7 +83,7 @@
             this.btnSorgu4.Name = "btnSorgu4";
             this.btnSorgu4.Size = new System.Drawing.Size(78, 53);
             this.btnSorgu4.TabIndex = 1;
-            this.btnSorgu4.Text = "Sorgu4";
+            this.btnSorgu4.Text = "Sorgu 4   \"";
             this.btnSorgu4.UseVisualStyleBackColor = true;
             this.btnSorgu4.Click += new System.EventHandler(this.btnSorgu4_Click);
             // 
@@ -93,7 +93,7 @@
             this.btnSorgu5.Name = "btnSorgu5";
             this.btnSorgu5.Size = new System.Drawing.Size(78, 53);
             this.btnSorgu5.TabIndex = 1;
-            this.btnSorgu5.Text = "Sorgu5";
+            this.btnSorgu5.Text = "Sorgu5asdasd";
             this.btnSorgu5.UseVisualStyleBackColor = true;
             this.btnSorgu5.Click += new System.EventHandler(this.btnSorgu5_Click);
             // 
@@ -103,7 +103,7 @@
             this.btnSorgu6.Name = "btnSorgu6";
             this.btnSorgu6.Size = new System.Drawing.Size(78, 53);
             this.btnSorgu6.TabIndex = 1;
-            this.btnSorgu6.Text = "Sorgu6";
+            this.btnSorgu6.Text = "Sorgu6 asdasd";
             this.btnSorgu6.UseVisualStyleBackColor = true;
             this.btnSorgu6.Click += new System.EventHandler(this.btnSorgu6_Click);
             // 
